@@ -1,0 +1,2 @@
+Mayard Integrated: React Bits Scanner shader adapted to standalone WebGL2 HTML. Original React registry: https://reactbits.dev/r/Scanner-JS-CSS.json
+Configuration: #5227FF #FF9FFC #FFFFFF; speed .5; sweep .25; width 1.6; ripple .22; bands 11; glow .6; vertical; spread .7; scanline enabled; mouse enabled; click ping. No npm dependencies needed for this standalone port. Requires WebGL2.
